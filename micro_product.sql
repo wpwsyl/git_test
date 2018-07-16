@@ -9,6 +9,7 @@ Source Database       : test_shadow2
 Target Server Type    : MYSQL
 Target Server Version : 50640
 File Encoding         : 65001
+修改一下
 
 Date: 2018-07-14 13:56:43
 */
