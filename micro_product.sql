@@ -22,6 +22,9 @@ dev 命令行添加一行
 dev再添加一行
 
 
+fixbug分支上修复一个bug
+
+
 SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
